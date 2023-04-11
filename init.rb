@@ -1,6 +1,6 @@
 Redmine::Plugin.register :redmine_reply_to_author_email do
   name 'Redmine Reply To Author Email plugin'
-  author 'bokos'
+  author 'bokos (ablida gmbh)'
   description 'Sets reply to of redmine notification e-mails to author e-mail'
   version '0.0.1'
   url 'https://github.com/ablidadev/redmine_reply_to_author_email'
